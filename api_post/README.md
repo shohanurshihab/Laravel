@@ -7,5 +7,5 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-##About This Repo
+## About This Repo
 This is a repo for trying out laravel api methods
